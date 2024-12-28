@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/employee-bonus">577. Employee Bonus</a></h2><h3>Easy</h3><hr><p>Table: <code>Employee</code></p>
+<h2><a href="https://leetcode.com/problems/employee-bonus/">577. Employee Bonus</a></h2><h3>Easy</h3><hr><p>Table: <code>Employee</code></p>
 
 <pre>
 +-------------+---------+
