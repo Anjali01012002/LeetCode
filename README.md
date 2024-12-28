@@ -24,5 +24,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0577-employee-bonus](https://github.com/Anjali01012002/LeetCode/tree/master/0577-employee-bonus) |
 | [1827-invalid-tweets](https://github.com/Anjali01012002/LeetCode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
