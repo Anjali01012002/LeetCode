@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Anjali01012002/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Anjali01012002/LeetCode/tree/master/0577-employee-bonus) |
 | [0619-biggest-single-number](https://github.com/Anjali01012002/LeetCode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Anjali01012002/LeetCode/tree/master/0620-not-boring-movies) |
