@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anjali01012002/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Anjali01012002/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anjali01012002/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Anjali01012002/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,8 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anjali01012002/LeetCode/tree/master/0054-spiral-matrix) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Anjali01012002/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjali01012002/LeetCode/tree/master/0013-roman-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/Anjali01012002/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
