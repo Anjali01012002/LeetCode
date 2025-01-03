@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/Anjali01012002/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anjali01012002/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1338-queries-quality-and-percentage](https://github.com/Anjali01012002/LeetCode/tree/master/1338-queries-quality-and-percentage) |
+| [1625-group-sold-products-by-the-date](https://github.com/Anjali01012002/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1827-invalid-tweets](https://github.com/Anjali01012002/LeetCode/tree/master/1827-invalid-tweets) |
 | [1948-rearrange-products-table](https://github.com/Anjali01012002/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Anjali01012002/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
