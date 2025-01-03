@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anjali01012002/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Anjali01012002/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2358-number-of-ways-to-split-array](https://github.com/Anjali01012002/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anjali01012002/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anjali01012002/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -74,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjali01012002/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2358-number-of-ways-to-split-array](https://github.com/Anjali01012002/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anjali01012002/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 <!---LeetCode Topics End-->
