@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anjali01012002/LeetCode/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Anjali01012002/LeetCode/tree/master/0054-spiral-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anjali01012002/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Anjali01012002/LeetCode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/Anjali01012002/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anjali01012002/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anjali01012002/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Anjali01012002/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
