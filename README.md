@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Anjali01012002/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anjali01012002/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Anjali01012002/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjali01012002/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Anjali01012002/LeetCode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Anjali01012002/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/Anjali01012002/LeetCode/tree/master/0812-rotate-string) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjali01012002/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Anjali01012002/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
