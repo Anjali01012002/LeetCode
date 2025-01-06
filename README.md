@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Anjali01012002/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/Anjali01012002/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Anjali01012002/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Anjali01012002/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
 |  |
 | ------- |
