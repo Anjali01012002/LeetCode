@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anjali01012002/LeetCode/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Anjali01012002/LeetCode/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/Anjali01012002/LeetCode/tree/master/0283-move-zeroes) |
+| [0952-word-subsets](https://github.com/Anjali01012002/LeetCode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/Anjali01012002/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Anjali01012002/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjali01012002/LeetCode/tree/master/0013-roman-to-integer) |
+| [0952-word-subsets](https://github.com/Anjali01012002/LeetCode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Anjali01012002/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Two Pointers
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Anjali01012002/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anjali01012002/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0812-rotate-string](https://github.com/Anjali01012002/LeetCode/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Anjali01012002/LeetCode/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Anjali01012002/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Anjali01012002/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Anjali01012002/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
