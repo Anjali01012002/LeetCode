@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1670-patients-with-a-condition](https://github.com/Anjali01012002/LeetCode/tree/master/1670-patients-with-a-condition) |
 | [1811-fix-names-in-a-table](https://github.com/Anjali01012002/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Anjali01012002/LeetCode/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/Anjali01012002/LeetCode/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Anjali01012002/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1948-rearrange-products-table](https://github.com/Anjali01012002/LeetCode/tree/master/1948-rearrange-products-table) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Anjali01012002/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
