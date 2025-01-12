@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anjali01012002/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-game-play-analysis-i](https://github.com/Anjali01012002/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Anjali01012002/LeetCode/tree/master/1338-queries-quality-and-percentage) |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/Anjali01012002/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Anjali01012002/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Anjali01012002/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/Anjali01012002/LeetCode/tree/master/1670-patients-with-a-condition) |
