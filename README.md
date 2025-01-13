@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/Anjali01012002/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/Anjali01012002/LeetCode/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Anjali01012002/LeetCode/tree/master/1338-queries-quality-and-percentage) |
+| [1390-average-selling-price](https://github.com/Anjali01012002/LeetCode/tree/master/1390-average-selling-price) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Anjali01012002/LeetCode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1625-group-sold-products-by-the-date](https://github.com/Anjali01012002/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Anjali01012002/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
