@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anjali01012002/LeetCode/tree/master/0011-container-with-most-water) |
 | [0054-spiral-matrix](https://github.com/Anjali01012002/LeetCode/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/Anjali01012002/LeetCode/tree/master/0283-move-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Anjali01012002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/Anjali01012002/LeetCode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anjali01012002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Anjali01012002/LeetCode/tree/master/0054-spiral-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Anjali01012002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anjali01012002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Simulation
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Anjali01012002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anjali01012002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Anjali01012002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anjali01012002/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
