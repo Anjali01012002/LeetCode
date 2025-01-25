@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali01012002/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anjali01012002/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anjali01012002/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anjali01012002/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anjali01012002/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Anjali01012002/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anjali01012002/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Anjali01012002/LeetCode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anjali01012002/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |
