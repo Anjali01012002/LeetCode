@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Anjali01012002/LeetCode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali01012002/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Anjali01012002/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Anjali01012002/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Anjali01012002/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anjali01012002/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Anjali01012002/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/Anjali01012002/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Anjali01012002/LeetCode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Anjali01012002/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Anjali01012002/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Anjali01012002/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Anjali01012002/LeetCode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2888-minimum-index-of-a-valid-split](https://github.com/Anjali01012002/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anjali01012002/LeetCode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Database
 |  |
