@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Anjali01012002/LeetCode/tree/master/0013-roman-to-integer) |
+| [0768-partition-labels](https://github.com/Anjali01012002/LeetCode/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Anjali01012002/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Anjali01012002/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anjali01012002/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Anjali01012002/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anjali01012002/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/Anjali01012002/LeetCode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Anjali01012002/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/Anjali01012002/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anjali01012002/LeetCode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/Anjali01012002/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anjali01012002/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/Anjali01012002/LeetCode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Anjali01012002/LeetCode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Anjali01012002/LeetCode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Anjali01012002/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali01012002/LeetCode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/Anjali01012002/LeetCode/tree/master/0768-partition-labels) |
 | [1502-construct-k-palindrome-strings](https://github.com/Anjali01012002/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Anjali01012002/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Anjali01012002/LeetCode/tree/master/2509-minimize-xor) |
