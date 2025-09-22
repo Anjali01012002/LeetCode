@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Anjali01012002/LeetCode/tree/master/0054-spiral-matrix) |
 | [0283-move-zeroes](https://github.com/Anjali01012002/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Anjali01012002/LeetCode/tree/master/0407-trapping-rain-water-ii) |
+| [0485-max-consecutive-ones](https://github.com/Anjali01012002/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0854-making-a-large-island](https://github.com/Anjali01012002/LeetCode/tree/master/0854-making-a-large-island) |
 | [0952-word-subsets](https://github.com/Anjali01012002/LeetCode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/Anjali01012002/LeetCode/tree/master/1396-count-servers-that-communicate) |
